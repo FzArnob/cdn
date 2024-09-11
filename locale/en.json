@@ -14,8 +14,8 @@
   "last_name": "Last Name",
   "sign_up": "Sign Up",
   "home_title": "Fiarah",
-  "nav_home": "Fiarah",
-  "nav_shop": "Fiarah",
-  "nav_deals": "Fiarah",
-  "nav_support": "Fiarah"
+  "nav_home": "Home",
+  "nav_shop": "Shop",
+  "nav_new": "New Arrivals",
+  "nav_support": "Support"
 }
