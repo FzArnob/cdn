@@ -13,5 +13,9 @@
   "first_name": "নাম লিখুন",
   "last_name": "পদবি লিখুন",
   "sign_up": "নিবন্ধন করুন",
-  "home_title": "Fiarah"
+  "home_title": "Fiarah",
+  "nav_home": "হোম",
+  "nav_shop": "শপিং",
+  "nav_new": "নতুন কালেকশন",
+  "nav_support": "গ্রাহক সহায়তা"
 }
